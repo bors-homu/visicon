@@ -25,7 +25,7 @@ def to_include(search='.'):
 packages, data = to_include('visicon')
 setup(
     name='visicon',
-    version='0.1',
+    version='0.2',
     description='IP address visualisation',
     author='Antisense',
     author_email='veracon@gmail.com',
